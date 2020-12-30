@@ -11,7 +11,7 @@
   * 주기마다 초음파센서로 거리 측정
   * 마스터에서 요청을 받을 때마다 측정값 전달
 
-Code : ArduinoCode
+Code : [ArduinoCode](https://github.com/lgm1007/Living-lab-Arduino-Python/tree/master/ArduinoCode)
 
 <br/>
 
@@ -31,7 +31,7 @@ Code : ArduinoCode
 * 측정값이 5cm 이하일 경우 count 값 1 증가
 * count 값이 3 이상이 되면 Solapi 솔루션을 이용해 문자메시지 전송 후 count 값 0으로 초기화
 
-Code : simple/test.py
+Code : [simple](https://github.com/lgm1007/Living-lab-Arduino-Python/tree/master/simple)/test.py
 
 <br/>
 
