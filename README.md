@@ -1,4 +1,4 @@
-#Obtain Arduino Ultrasonic Sensor Result from Python (Living Lab.)
+# Obtain Arduino Ultrasonic Sensor Result from Python (Living Lab.)
 
 ## Arduino
 
@@ -23,7 +23,7 @@ Code : [ArduinoCode](https://github.com/lgm1007/Living-lab-Arduino-Python/tree/m
 
 * pyserial
 
-###동작 리뷰
+### 동작 리뷰
 
 * pyserial 모듈로 시리얼 통신을 통해 마스터 아두이노에게 측정값 읽어옴
   * 시리얼에서 읽어온 값을 유니코드로 변경해주기 위해 decode() 함수 사용
@@ -35,11 +35,11 @@ Code : [simple](https://github.com/lgm1007/Living-lab-Arduino-Python/tree/master
 
 <br/>
 
-##Solapi-Python-Example
+## Solapi-Python-Example
 
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
-###사용 준비
+### 사용 준비
 
 - [ ] [config.ini](https://github.com/solapi/examples/blob/python/python/config.ini)에 정보 입력
   - [ ] ApiKey
@@ -47,14 +47,14 @@ Code : [simple](https://github.com/lgm1007/Living-lab-Arduino-Python/tree/master
   - [ ] to (수신번호)
   - [ ] from (발신번호)
 
-###필요한 Library
+### 필요한 Library
 
-####main
+#### main
 
 - [ ] requests
 - [ ] configparser
 - [ ] json
-####auth
+#### auth
 
 - [ ] time
 - [ ] datetime
