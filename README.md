@@ -2,6 +2,10 @@
 
 ## Arduino
 
+### 회로 구성
+
+![](https://github.com/lgm1007/Living-lab-Arduino-Python/blob/master/circuit/arduino-circuit.JPG?raw=true)
+
 ### 동작 리뷰
 
 * 아두이노는 1:N 통신을 수행
